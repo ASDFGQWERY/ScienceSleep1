@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "871117591209",
+    "project_id": "sciencesleep1",
+    "storage_bucket": "sciencesleep1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871117591209:android:3ed2cb82cff2aac3380fb8",
+        "android_client_info": {
+          "package_name": "com.github.ASDFGQWERY.sciencesleep1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871117591209-2jivadotq9srtbrtskvak7e1blomi1vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC12ZRekDZZv1ZxwCWkb7o95TQTiQpu4Es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871117591209-2jivadotq9srtbrtskvak7e1blomi1vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
